@@ -43,7 +43,7 @@
 
 ## 💼 Work Experience
 
-### 삼성메디슨 - AI Vision 그룹 Volumetric AI Lab Intern(2024.03 ~ 2024.06)
+### 삼성메디슨 - AI Vision 그룹 Volumetric AI Lab Intern(2024.03 ~ 2024.08)
 
 - SW Challenge 연구과제 3D 초음파 볼륨 정합 알고리즘 개발 (PCA 기반 정합)
 - 태아 뇌 7개 구조물 자동 정합 및 단면 생성 파이프라인 설계
