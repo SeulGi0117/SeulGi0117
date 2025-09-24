@@ -47,7 +47,7 @@
 
 ### 삼성메디슨 - AI Vision 그룹 Volumetric AI Lab Intern(2024.03 ~ 2024.08)
 
-- SW Challenge 연구과제 3D 초음파 볼륨 정합 알고리즘 개발 (PCA 기반 정합)
+- SW Challenge 연구과제 3D 초음파 볼륨 정합 알고리즘 개발 (PCA 기반 정합) → SW Challenge 최우수 평가 달성
 - 태아 뇌 7개 구조물 자동 정합 및 단면 생성 파이프라인 설계
 - 3D 초음파 데이터 수집·정리 및 AI 학습용 전처리 수행
 - ai 연구용 .raw, .nii, .nrrd 파일을 삼성메디슨 MVL 포맷(OLE 구조 볼륨 데이터)으로 일괄 변환하는 Python GUI 프로그램 개발
@@ -56,11 +56,12 @@
 
 ## 🚀 Featured Projects
 
-### 🐄 BlackCows - 스마트 젖소 관리 시스템
-- **기간**: 2024.03 ~ 현재 (농림축산식품 공공데이터 창업 경진대회 참가)
+### 🐄 BlackCows - AI기반 낙농 젖소 전문 관리 어플리케이션
+- **기간**: 2025.03 ~ 2025.08 (제10회 농림축산식품부 공공데이터 활용 창업 경진대회 참가)
 - **역할**: 백엔드 리더, DevOps, API 설계/구현
 - **핵심 기술**: FastAPI, Firebase, Flutter, AI/ML
 - **성과**: RESTful API 설계, 실시간 데이터처리, 자동 배포 파이프라인 GitHub Actions CI/CD 구축
+- **제10회 농림축산식품부 공공데이터 활용 창업경진대회 한국마사회장상 수상 🏆[수상작 보러가기](https://data.mafra.go.kr/contest/getWinnerNew.do)** | **🔗[프로젝트 설명 홈페이지](https://blackcows-team.github.io/blackcows-privacy/index.html)**
 
 
 ### 🌱 AI 기반 스마트 식물 관리 시스템
