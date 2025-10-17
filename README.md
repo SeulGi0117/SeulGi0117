@@ -36,7 +36,7 @@
 ## 📚 Learning & Interests
 - Currently enrolled in the **KT Cloud TECH-UP Backend Program (1st Cohort)**, focusing on backend architecture and cloud-native development.  
 - Learning **Java Spring Framework**, **Spring Boot**, and **Kotlin**, with a strong passion for **AI model serving** and **system architecture design**.  
-- With a background in **computer vision**, I’m particularly passionate about **real-time AI model processing and deployment**, aiming to become an **AI service developer** who bridges **deep learning and backend engineering**.
+- With a background in **computer vision**, I’m particularly passionate about **real-time AI model processing and deployment**, aiming to become an **AI service developer** who bridges **deep learning and backend engineering**.💪🏻
   
 ## 🏆 Awards & Achievements
 
