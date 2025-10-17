@@ -21,6 +21,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 
 ### 📱 Mobile & IoT
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
@@ -32,6 +33,11 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white)
 ---
 
+## 📚 Learning & Interests
+- Currently enrolled in the **KT Cloud TECH-UP Backend Program (1st Cohort)**, focusing on backend architecture and cloud-native development.  
+- Learning **Java Spring Framework**, **Spring Boot**, and **Kotlin**, with a strong passion for **AI model serving** and **system architecture design**.  
+- With a background in **computer vision**, I’m particularly passionate about **real-time AI model processing and deployment**, aiming to become an **AI service developer** who bridges **deep learning and backend engineering**.
+  
 ## 🏆 Awards & Achievements
 
 | 수상 내역 | 세부 내용 |
