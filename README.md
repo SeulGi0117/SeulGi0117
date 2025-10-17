@@ -133,9 +133,9 @@
 
 <div align="center">
 
-![SeulGi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeulGi0117&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeulGi0117&layout=compact&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SeulGi0117&theme=github-compact)
+![SeulGi's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeulGi0117&theme=vue)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SeulGi0117&theme=vue)
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeulGi0117&theme=vue)
 
 </div>
 
@@ -144,7 +144,8 @@
 ## 📫 Contact
 
 <div align="center">
-
+  
+[![Naver](https://img.shields.io/badge/Naver-Mail-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:jusanha0117@naver.com)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:jusanha17@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-SeulGi0117-181717?style=flat-square&logo=GitHub)](https://github.com/SeulGi0117)
 
